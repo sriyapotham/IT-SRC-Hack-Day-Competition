@@ -1,5 +1,3 @@
-export NODE_ENV= sickshop
-
 const applicationRoot = __dirname.replace(/\\/g, '/')
 const path = require('path')
 const fs = require('fs-extra')
