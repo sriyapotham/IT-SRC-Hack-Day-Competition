@@ -2,6 +2,9 @@
   "name": "BodgeIt Store",
   "description": "An intentionally insecure JavaScript Web Application",
   "NODE_ENV": "bodgeit",
+  "env":{
+    "value": "bodgeit"
+    },
   "keywords": [
     "web security",
     "web application security",
